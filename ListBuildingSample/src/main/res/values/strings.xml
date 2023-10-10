@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">BorealScan</string>
+    <string name="app_title">BorealScan Demo</string>
+    <string name="item_title">Item %d</string>
+    <string name="item_description">%s: %s</string>
+    <string name="clear_button">Vaciar Resultados</string>
+    <string name="demo_versi_n_0_1">Demo versión 0.1</string>
+    <plurals name="results_amount">
+        <item quantity="one">%d item</item>
+        <item quantity="other">%d items</item>
+    </plurals>
+</resources>
